@@ -1,5 +1,3 @@
-# compasso-product
-Tax compliance platform for independent professionals
 # Compasso
 
 ### AI-powered tax compliance for independent professionals
