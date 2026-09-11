@@ -1,8 +1,8 @@
 # Compasso
 
-### AI-powered tax compliance for independent professionals
+### AI-powered tax compliance for independent psychologists
 
-Compasso is a product concept focused on reducing the complexity of tax compliance for independent professionals through an AI-powered assistant.
+Compasso is a product concept focused on reducing the complexity of tax compliance for independent psychologists through an AI-powered assistant.
 
 The product is designed to help professionals understand what they need to pay, when they need to pay it, and whether their obligations have been completed — without requiring them to navigate complex tax processes themselves.
 
