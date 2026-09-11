@@ -22,14 +22,17 @@ Every obligation follows the same three-message sequence:
 
 **D-3 (3 days before deadline)**
 > "Olá Marina! O Carnê-Leão de abril vence em 3 dias (31/05). Quando você tiver o comprovante de pagamento, é só me enviar aqui. Precisa de ajuda para gerar a guia?"
+> 
 > "Hi Marina! April's Carnê-Leão is due in 3 days (31/05). Whenever you have the payment receipt, send me here. Do you need help generating the payment guide?"
 
 **On document receipt**
 > "Recebi o comprovante! Deixa eu verificar... ✓ Pagamento de R$ 412,00 confirmado. Vou registrar e gerar seu ticket agora."
+> 
 > "Got it! Let me verify it... ✓ Payment of R$ 412,00 confirmed. Registering and generating your ticket now."
 
 **On completion**
 > "Tudo certo! Carnê-Leão de abril registrado. Seu ticket de comprovação foi gerado. ✅"
+> 
 > "All good! April's Carnê-Leão registered. Here's your validation ticket ✅"
 
 The agent adapts tone by obligation type: payment obligations get one flow, registration obligations (Receita Saúde) get a simpler confirmation flow, and overdue obligations generate daily alerts until resolved.
