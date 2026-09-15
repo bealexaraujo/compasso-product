@@ -1,7 +1,3 @@
-Here's the full final README — copy everything and replace the file:
-
----
-
 # Compasso
 ### AI-powered tax compliance for independent psychologists
 
