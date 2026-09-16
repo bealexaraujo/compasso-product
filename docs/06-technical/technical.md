@@ -52,4 +52,7 @@ The prototype successfully validated:
 - The interaction model (push notifications + document upload) is intuitive to the target user
 - The obligation catalog is accurate and complete for SP/PF psychologists
 - The dashboard information architecture is understood without training
-- Pricing sensitivity: R$19,90–R$24,90/month is in the acceptable range
+- Pricing hypothesis: R$19,90–R$24,90/month is the initial pricing bet,
+positioned below a typical monthly accounting service fee and above a generic
+reminder app. Not yet validated with live paying users (his is a market
+assumption to be tested in the private beta.) 
