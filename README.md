@@ -185,6 +185,3 @@ Compasso is an independent product project created to explore the intersection o
 
 Built as a hands-on product case study from problem discovery through MVP.
 
----
-
-Commit message: `docs: final README update — prototype and corrected links`
