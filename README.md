@@ -135,8 +135,8 @@ It focuses on demonstrating:
 The full case study is organized into the following sections:
 
 - [Problem](./docs/01-problem/problem.md) — the fiscal compliance gap for autonomous psychologists in Brazil, and why existing tools don't solve it
-- [Discovery & User Research](./docs/02-discovery/discovery.md) — interviews, JTBD framework, competitive analysis, and what we got wrong in the first round
-- [Users](./docs/03-users/users.md) — personas and the segments we chose not to serve
+- [Discovery & User Research](./docs/02-discovery/discovery.md) — interviews, JTBD framework, competitive analysis, and what I got wrong in the first round
+- [Users](./docs/03-users/users.md) — personas and the segments I chose not to serve
 - [Strategy](./docs/04-strategy/strategy.md) — positioning, bets, and how the product is differentiated
 - [Product Design](./docs/05-product-design/product-design.md) — UX decisions, interaction model, and why push-based beats pull-based for this use case
 - [Technical Architecture](./docs/06-technical/technical.md) — how product decisions connect to the system design
@@ -145,7 +145,7 @@ The full case study is organized into the following sections:
 - [Roadmap](./docs/09-roadmap/roadmap.md) — organized by validation questions, not calendar quarters
 - [Launch](./docs/10-launch/launch.md) — go-to-market approach for a niche, trust-sensitive product
 - [Condensed PRD](./docs/00-PRD/PRD.md) — full product requirements document
-- [Product Decision Records](./decisions/) — the calls we made, why, and what we gave up
+- [Product Decision Records](./decisions/) — the calls I made, why, and what I gave up
 
 ---
 
