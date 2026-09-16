@@ -42,7 +42,7 @@ Users generally don't know their obligations. The failure point is both
 and whether I already did it this month."
 
 Once these professionals graduate and start working, nobody give them
-these informations. Also, every obligation lives on a separate government 
+this information. Also, every obligation lives on a separate government 
 portal. Every portal has its own login, its own interface, and its own 
 deadline logic. There is no unified view.
 
