@@ -54,5 +54,5 @@ The prototype successfully validated:
 - The dashboard information architecture is understood without training
 - Pricing hypothesis: R$19,90–R$24,90/month is the initial pricing bet,
 positioned below a typical monthly accounting service fee and above a generic
-reminder app. Not yet validated with live paying users (his is a market
+reminder app. Not yet validated with live paying users (this is a market
 assumption to be tested in the private beta.) 
